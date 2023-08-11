@@ -9,6 +9,15 @@ This project provides an analysis of the Nobel Prize dataset using Python. It ai
 
 To start with this project, clone the repository, install the requirements, and run the Jupyter notebook.
 
+1. Clone the repository:
+```bash
+git clone https://github.com/j-breedlove/nobel_prize_dataset.git
+```
+2. Change directory:
+```bash
+cd nobel_prize_dataset
+```
+
 ### Prerequisites
 
 The project requires Python and the following Python libraries installed:
